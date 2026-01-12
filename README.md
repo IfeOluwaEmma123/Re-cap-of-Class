@@ -2,7 +2,8 @@
 📊 2017 Financial Performance Analysis Dashboard
 🔍 Project Overview
 This project involved building an interactive financial analysis dashboard to evaluate the sales performance, profitability, and segment contribution of ABC Sales Plc across multiple products and time periods. The dashboard enables stakeholders to quickly identify trends, compare products, and assess profitability drivers for informed decision-making.
-🎯 Project Objective
+
+🎯 `Project Objective`
 The primary objectives of this project were to:
 Analyze monthly and quarterly sales trends across all products
 
