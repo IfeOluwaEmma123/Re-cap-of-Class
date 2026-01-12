@@ -1,5 +1,7 @@
 # 📊 2017 Financial Performance Analysis Dashboard
 
+![Dashboard Preview](financials.jpg)
+
 ## 🔍 Project Overview
 This project focuses on building an **interactive financial analysis dashboard** to evaluate the **sales performance, profitability, and segment contribution** of **ABC Sales Plc** across multiple products and time periods.
 
